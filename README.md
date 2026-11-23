@@ -1,4 +1,6 @@
-# Omacut
+# SigmaOS Omacut
+
+> Forked from omacom/omacut (MIT). See `SIGMAOS_FORK.md`.
 
 A dead-simple video editor. Open a video, trim either end, split it into clips and cut pieces out, add more videos and put the clips in any order, preview the result, and export. On Omarchy, the interface follows your theme's accent color.
 

@@ -1,6 +1,6 @@
 [component]
-name = "omacut"
-id = "sigmaos-omacut"
+name = "sigmaos-cut"
+id = "sigmaos-cut"
 kind = "component"
 license = "GPL-3.0-or-later"
 

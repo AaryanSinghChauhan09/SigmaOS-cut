@@ -1,8 +1,8 @@
 # SigmaOS Omacut
 
-> Forked from omacom/omacut (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/omacut (MIT). See `SIGMAOS_FORK.md`.
 
-A dead-simple video editor. Open a video, trim either end, split it into clips and cut pieces out, add more videos and put the clips in any order, preview the result, and export. On Omarchy, the interface follows your theme's accent color.
+A dead-simple video editor. Open a video, trim either end, split it into clips and cut pieces out, add more videos and put the clips in any order, preview the result, and export. On SigmaOS, the interface follows your theme's accent color.
 
 Built using **Qt Quick (QML)** UI with the Material style — the same Qt stack Quickshell builds on — and **ffmpeg** for the cut. The C++ side compiles to a single executable; the QML is embedded in it via Qt resources.
 
@@ -47,7 +47,7 @@ Confirmations are answered from the keyboard: the arrows and Tab move between th
 
 ## Install
 
-Install via the Omarchy Package Repository via the `omacut` package. It's installed by default in new installations of Omarchy (from Quattro forward).
+Install via the SigmaOS Package Repository via the `omacut` package. It's installed by default in new installations of SigmaOS (from Quattro forward).
 
 ## Requirements
 
@@ -66,7 +66,7 @@ bin/build
 
 This produces a single `omacut` binary in `build/`.
 
-Requirements: a C++17 compiler, `cmake`, and Qt 6 (`qt6-base`, `qt6-declarative`, `qt6-multimedia`). The package's PKGBUILD in `omacom/omarchy-pkgs` lists everything, and CI installs from it.
+Requirements: a C++17 compiler, `cmake`, and Qt 6 (`qt6-base`, `qt6-declarative`, `qt6-multimedia`). The package's PKGBUILD in `AaryanSinghChauhan09/SigmaOS-pkgs` lists everything, and CI installs from it.
 
 ## Test
 

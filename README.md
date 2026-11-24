@@ -87,3 +87,8 @@ Set `OMACUT_TEST_ON_SCREEN=1` to watch the tests in real windows instead.
 ## License
 
 MIT. See `LICENSE`.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-cut) - Full Wiki documentation for all SigmaOS components
